@@ -11,7 +11,7 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/microsoft/msphpsql/releases/download/v5.9.0/Debian10-7.4.tar"
+					"url": "https://github.com/DevArKaDiA/php-mssql-ext/raw/bb4c71193cf6e919c7e877f47c5a706975d7020c/driver.gz"
 				},
 				"time": "2019-09-02"
 			},
@@ -25,7 +25,7 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/microsoft/msphpsql/releases/download/v5.9.0/Debian10-7.4.tar"
+					"url": "https://github.com/DevArKaDiA/php-mssql-ext/raw/bb4c71193cf6e919c7e877f47c5a706975d7020c/driver.gz"
 				},
 				"time": "2019-09-02"
 			}
